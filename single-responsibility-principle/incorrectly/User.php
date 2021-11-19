@@ -1,5 +1,7 @@
 <?php
 
+namespace incorrectly;
+
 class User
 {
     private $email;
